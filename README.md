@@ -5,7 +5,7 @@ Kho lưu trữ cấu hình hỗ trợ kích hoạt tính năng **Locket Gold** t
 ## 📦 Danh sách file cài đặt
 * [ysiduc0.pac](https://ysiduc.github.io/locket/ysiduc0.pac) (File tự động cấu hình Proxy)
 * [ysiduc2.crt](https://ysiduc.github.io/locket/ysiduc2.crt) (Chứng chỉ bảo mật)
-* [LocketGold.mobileconfig](https://ysiduc.github.io/locket/LocketGold.mobileconfig) (File cấu hình hoàn tất)
+* [ysiduc1.mobileconfig](https://ysiduc.github.io/locket/ysiduc1.mobileconfig) (File cấu hình hoàn tất)
 
 ---
 
@@ -30,7 +30,7 @@ Kho lưu trữ cấu hình hỗ trợ kích hoạt tính năng **Locket Gold** t
 1. Mở ứng dụng **Locket** lên kiểm tra xem tài khoản đã lên **Gold** chưa.
 2. *Nếu chưa lên Gold:* Hãy gỡ cài đặt ứng dụng Locket hiện tại, lên App Store tải lại ứng dụng mới rồi kiểm tra lại.
 3. Sau khi Locket đã lên Gold thành công:
-   * Mở **Safari**, truy cập link: [Tải LocketGold.mobileconfig](https://ysiduc.github.io/locket/LocketGold.mobileconfig)
+   * Mở **Safari**, truy cập link: [Tải ysiduc1.mobileconfig](https://ysiduc.github.io/locket/ysiduc1.mobileconfig)
    * Tiến hành cài đặt cấu hình tương tự như cách làm ở **Bước 2**.
    * Cuối cùng, vào lại **Cài đặt Wi-Fi** -> **Định cấu hình proxy** -> Chọn **Tắt (Off)** để đưa mạng về trạng thái bình thường.
 
