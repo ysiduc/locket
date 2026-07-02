@@ -3,7 +3,7 @@
   <dict>
 
     <key>PayloadDisplayName</key>
-    <string>trinhnangduc</string>
+    <string>@ysiduc</string>
 
     <key>PayloadDescription</key>
     <string>@ysiduc</string>
@@ -92,8 +92,10 @@
       </dict>
     </array>
 
+
+
     <key>PayloadOrganization</key>
-    <string>Trịnh Năng Đức</string>
+    <string>That ra to thich cau tu lau roi ma cha biet noi gi nen chua dam totinh</string>
 
   </dict>
 </plist>
